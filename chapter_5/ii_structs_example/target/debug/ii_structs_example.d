@@ -1,0 +1,1 @@
+/home/tapojit047/go/src/github.com/tapojit047/learn-rust/chapter_5/ii_structs_example/target/debug/ii_structs_example: /home/tapojit047/go/src/github.com/tapojit047/learn-rust/chapter_5/ii_structs_example/src/main.rs

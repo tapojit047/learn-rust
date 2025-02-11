@@ -1,0 +1,1 @@
+/home/tapojit047/go/src/github.com/tapojit047/learn-rust/chapter_5/iii_method_syntax/target/debug/iii_method_syntax: /home/tapojit047/go/src/github.com/tapojit047/learn-rust/chapter_5/iii_method_syntax/src/main.rs
