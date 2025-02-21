@@ -1,0 +1,6 @@
+[package]
+name = "i_defining_an_enum"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

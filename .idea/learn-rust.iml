@@ -2,8 +2,33 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/chapter_5/i_structs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_5/iii_method_syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_6/i_defining_an_enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/functions/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/functions/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/variables/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_3/variables/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4/ii_references_and_borrowing/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4/ii_references_and_borrowing/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4/iii_slice/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4/iii_slice/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4/ownership/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_4/ownership/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_5/i_structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_5/ii_structs_example/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_5/ii_structs_example/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_5/iii_method_syntax/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_6/i_defining_an_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game/target/debug/build/libc-2fba499436484a1c/out" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game/target/debug/build/proc-macro2-8cb02808c8eea528/out" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
