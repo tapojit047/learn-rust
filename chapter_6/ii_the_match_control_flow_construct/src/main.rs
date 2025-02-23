@@ -78,7 +78,7 @@ fn roll_dice(dice_roll: u8, mut hat: u32) -> u32 {
     match dice_roll {
         3 => hat = add_fancy_hat(hat),
         7 => hat = remove_fancy_hat(hat),
-        other => move_player(other),
+        _ => move_player(),
     }
     hat
 }
@@ -97,8 +97,8 @@ fn remove_fancy_hat(mut hat: u32) -> u32 {
     hat - 1
 }
 
-fn move_player(num_spaces: u8) {
-    println!("Moving player {num_spaces} places");
+fn move_player() {
+    println!("Moving player");
 }
 fn reroll() {
     println!("No action defined. Roll again...")
