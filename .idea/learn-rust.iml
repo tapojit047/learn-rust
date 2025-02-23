@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_5/iii_method_syntax/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_6/i_defining_an_enum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_6/ii_the_match_control_flow_construct/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
@@ -29,6 +30,7 @@
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target/debug/build/proc-macro2-8cb02808c8eea528/out" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_6/ii_the_match_control_flow_construct/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
