@@ -8,6 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_6/ii_the_match_control_flow_construct/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_6/iii_concise_control_flow_with_if_let_and_let_else/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
@@ -33,6 +36,9 @@
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_6/ii_the_match_control_flow_construct/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_6/iii_concise_control_flow_with_if_let_and_let_else/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
