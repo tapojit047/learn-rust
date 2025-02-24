@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_7/iii_paths_for_referring_to_an_item_in_the_module_tree/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
@@ -39,6 +40,7 @@
       <excludeFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7/iii_paths_for_referring_to_an_item_in_the_module_tree/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
