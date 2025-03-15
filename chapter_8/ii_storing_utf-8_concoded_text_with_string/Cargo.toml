@@ -1,0 +1,6 @@
+[package]
+name = "ii_storing_utf-8_concoded_text_with_string"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_7/iv_bringing_paths_into_scope_with_the_use_keyword/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_7/v_separating_modules_into_different_files/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_8/i_storing_lists_of_values_with_vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
@@ -47,6 +48,7 @@
       <excludeFolder url="file://$MODULE_DIR$/chapter_7/iv_bringing_paths_into_scope_with_the_use_keyword/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_7/v_separating_modules_into_different_files/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_8/i_storing_lists_of_values_with_vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
