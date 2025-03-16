@@ -17,6 +17,9 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_8/i_storing_lists_of_values_with_vectors/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_8/iii_hash_maps/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_8/exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_2/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
@@ -51,6 +54,9 @@
       <excludeFolder url="file://$MODULE_DIR$/chapter_8/i_storing_lists_of_values_with_vectors/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_8/iii_hash_maps/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_8/exercises/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_2/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
