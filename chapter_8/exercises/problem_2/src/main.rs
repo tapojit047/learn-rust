@@ -1,9 +1,12 @@
-fn main() {
-    let text = String::from("Hello world");
-    println!("{}", problem_2(text));
+use std::io;
 
-    let text = String::from("first apple");
-    println!("{}", problem_2(text));
+fn main() {
+    println!("Enter a sentence: ");
+    let mut text = String::new();
+    io::stdin().read_line(&mut text).unwrap();
+
+    text = problem_2(text);
+    print!("{}", text);
 }
 
 // Convert strings to pig latin. The first consonant of each word is moved to the end of the word and ay is added, so first becomes irst-fay.
