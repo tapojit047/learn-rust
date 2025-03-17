@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_9/i_unrecoverable_errors_with_panic/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
@@ -59,6 +60,7 @@
       <excludeFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_1/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_2/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_8/exercises/problem_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_9/i_unrecoverable_errors_with_panic/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
