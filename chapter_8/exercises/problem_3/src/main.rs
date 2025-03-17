@@ -11,15 +11,14 @@ fn main() {
     println!("1. Add <Employee-Name> to <Department> --> To add an employee to a particular department.");
     println!("2. List <Department> --> To list all the employee of a department.");
     println!("3. List --> List all the employees of the company by department");
-    println!("-------------------------------------------------------------------------------------------------");
+    println!("------------------------------------------------------------------------------------------");
     loop {
         println!("Provide command: ");
         let mut input = String::new();
         io::stdin().read_line(&mut input).unwrap();
 
         handle_input(input, &mut map);
-
-        println!("");
+        println!();
     }
 }
 
@@ -35,14 +34,14 @@ fn handle_input(input: String, map: &mut HashMap<String, Vec<String>> ) {
             }
         }
 
-        if word == "to" {
+        else if word == "to" {
             if let Some(next_word) = words.next() {
                 department = next_word.to_string();
             }
             println!("{name} is successfully added to the {department}");
         }
 
-        if word == "List" {
+        else if word == "List" {
             // List <Department>
             if let Some(next_word) = words.next() {
                 department = next_word.to_string();
@@ -53,8 +52,12 @@ fn handle_input(input: String, map: &mut HashMap<String, Vec<String>> ) {
                 // List --> List All]
                 handle_list_all(map);
             }
+            return;
         }
-
+        else {
+            println!("Invalid Command!!!");
+            return;
+        }
     }
     let list = map.entry(department).or_insert(Vec::new());
     list.push(name);
@@ -89,8 +92,8 @@ fn handle_list_all(map: &mut HashMap<String, Vec<String>>) {
 
 
 // Input:
-// Add Matin to Engineering
 // Add Tapojit to Engineering
+// Add Matin to Engineering
 // Add Salik to Management
 // Add Zahid to Management
 // Add Tamal to Engineering
