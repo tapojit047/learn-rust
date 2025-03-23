@@ -6,6 +6,9 @@ use problem_3::listing;
 // for example, “Add Sally to Engineering” or “Add Amir to Sales.”
 // Then let the user retrieve a list of all people in a department or all people in the company by department, sorted alphabetically.
 
+// Add --> defines the command to add a new employee to a particular department
+// List <String (Department) > --> defines the command to list all the employees of a department
+// List <None> --> defines the command to list all the employees by department
 enum Command {
     Add(String, String),
     List(Option<String>),
@@ -29,6 +32,8 @@ fn main() {
     }
 }
 
+// exec_command received the command as Command enum
+// and then executes the functionality of that command
 fn exec_command(command: Option<Command>, map: &mut HashMap<String, Vec<String>> ) {
     match command {
         Some(Command::Add(name, department)) => {
@@ -49,6 +54,9 @@ fn exec_command(command: Option<Command>, map: &mut HashMap<String, Vec<String>>
         }
     }
 }
+
+// parse_command parses the input command and
+// maps and returns the command enums
 fn parse_command(input: String) -> Option<Command> {
     let mut words = input.split_whitespace();
     let mut name = String::new();
