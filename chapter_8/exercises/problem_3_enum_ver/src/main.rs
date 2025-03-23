@@ -1,9 +1,15 @@
 use std::collections::HashMap;
 use std::io;
 use problem_3::listing;
+
 // Using a hash map and vectors, create a text interface to allow a user to add employee names to a department in a company;
 // for example, “Add Sally to Engineering” or “Add Amir to Sales.”
 // Then let the user retrieve a list of all people in a department or all people in the company by department, sorted alphabetically.
+
+enum Command {
+    Add(String, String),
+    List(Option<String>),
+}
 
 fn main() {
     let mut map: HashMap<String, Vec<String>> = HashMap::new();
@@ -17,16 +23,37 @@ fn main() {
         let mut input = String::new();
         io::stdin().read_line(&mut input).unwrap();
 
-        handle_input(input, &mut map);
+        let command = parse_command(input);
+        exec_command(command, &mut map);
         println!();
     }
 }
 
-fn handle_input(input: String, map: &mut HashMap<String, Vec<String>> ) {
+fn exec_command(command: Option<Command>, map: &mut HashMap<String, Vec<String>> ) {
+    match command {
+        Some(Command::Add(name, department)) => {
+            let list = map.entry(department.clone()).or_insert(Vec::new());
+            list.push(name.clone());
+
+            println!("{name} is successfully added to the {department}");
+        }
+        Some(Command::List(Some(department))) => {
+            let list = map.get_mut(&department);
+            listing::handle_list_by_department(list, &department);
+        }
+        Some(Command::List(None)) => {
+            listing::handle_list_all(map);
+        }
+        None => {
+            println!("Invalid Command!!!");
+        }
+    }
+}
+fn parse_command(input: String) -> Option<Command> {
     let mut words = input.split_whitespace();
     let mut name = String::new();
     let mut department = String::new();
-
+    let mut command: Option<Command> = None;
     while let Some(word) = words.next() {
         if word == "Add" {
             if let Some(next_word) = words.next() {
@@ -38,32 +65,25 @@ fn handle_input(input: String, map: &mut HashMap<String, Vec<String>> ) {
             if let Some(next_word) = words.next() {
                 department = next_word.to_string();
             }
-            println!("{name} is successfully added to the {department}");
+            command = Option::from(Command::Add(name.clone(), department.clone()));
         }
 
         else if word == "List" {
             // List <Department>
             if let Some(next_word) = words.next() {
                 department = next_word.to_string();
-                let list = map.get_mut(&department);
-
-                listing::handle_list_by_department(list, &department);
+                command = Option::from(Command::List(Option::from(department.clone())));
             } else {
                 // List --> List All]
-                listing::handle_list_all(map);
+                command = Option::from(Command::List(Option::from(None)));
             }
-            return;
         }
         else {
             println!("Invalid Command!!!");
-            return;
         }
     }
-    let list = map.entry(department).or_insert(Vec::new());
-    list.push(name);
+    command
 }
-
-
 
 // Input:
 // Add Tapojit to Engineering

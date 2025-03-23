@@ -1,0 +1,7 @@
+[package]
+name = "problem_3_enum_ver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+problem_3 = {path = "../problem_3"}
