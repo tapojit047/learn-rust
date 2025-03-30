@@ -29,7 +29,6 @@ impl Guess {
 // and make sure that the number is within 1 to 100
 fn use_guess() {
     loop {
-        println!("HIIIIIIIIIIIIIIIIII");
         let mut input = String::new();
         io::stdin()
             .read_line(&mut input)
