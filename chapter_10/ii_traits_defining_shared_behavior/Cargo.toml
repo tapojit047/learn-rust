@@ -1,0 +1,8 @@
+[package]
+name = "ii_traits_defining_shared_behavior"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aggregator = {path = "./aggregator"}
+conditional_impl = {path = "./conditional_impl" }

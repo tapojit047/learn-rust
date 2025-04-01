@@ -27,6 +27,9 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_9/iii_to_panic_or_not_to_panic/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_10/chapter_10/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_10/i_generic_data_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
@@ -71,6 +74,9 @@
       <excludeFolder url="file://$MODULE_DIR$/chapter_9/iii_to_panic_or_not_to_panic/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_10/chapter_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_10/i_generic_data_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
