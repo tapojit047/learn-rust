@@ -30,6 +30,8 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/build" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/control_flow/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_3/data_types/target/debug/build" />
@@ -77,6 +79,8 @@
       <excludeFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

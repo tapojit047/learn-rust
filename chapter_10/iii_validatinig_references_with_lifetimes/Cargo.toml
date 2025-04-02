@@ -1,0 +1,7 @@
+[package]
+name = "iii_validatinig_references_with_lifetimes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lifetime_in_struct = {path = "./lifetime_in_struct"}
