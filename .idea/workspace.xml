@@ -39,9 +39,16 @@
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/rectangle/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/assert_eq_ne/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/should_panic/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/run_subset_of_tests/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/ignoring_tests/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="" />
+    <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +154,7 @@
       <workItem from="1743492908236" duration="617000" />
       <workItem from="1743529678880" duration="4613000" />
       <workItem from="1743581201144" duration="7514000" />
-      <workItem from="1743837982287" duration="5215000" />
+      <workItem from="1743837982287" duration="8018000" />
     </task>
     <servers />
   </component>
