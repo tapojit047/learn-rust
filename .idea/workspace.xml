@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/chapter_5/iii_method_syntax/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_6/i_defining_an_enum/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_5/i_structs/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_6/ii_the_match_control_flow_construct/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_6/iii_concise_control_flow_with_if_let_and_let_else/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/iii_paths_for_referring_to_an_item_in_the_module_tree/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/iv_bringing_paths_into_scope_with_the_use_keyword/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/v_separating_modules_into_different_files/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/i_storing_lists_of_values_with_vectors/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/iii_hash_maps/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_1/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_2/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_9/i_unrecoverable_errors_with_panic/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_9/ii_recoverable_errors_with_result/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3_enum_ver/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_9/iii_to_panic_or_not_to_panic/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/chapter_10/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/i_generic_data_types/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/all_in_one/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/adder/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/rectangle/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/assert_eq_ne/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/should_panic/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="U3OmBP2a" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2tMWuRtBPHkRDutT7BBsQXgbpZc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cargo.Run i_defining_an_enum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tapojit047/go/src/github.com/tapojit047/learn-rust&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Run i_defining_an_enum" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package i_defining_an_enum --bin i_defining_an_enum" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/chapter_6/i_defining_an_enum" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run i_defining_an_enum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="" />
+      <created>1740162647436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740162647436</updated>
+      <workItem from="1740162649577" duration="3053000" />
+      <workItem from="1740215558621" duration="5308000" />
+      <workItem from="1740297339167" duration="14016000" />
+      <workItem from="1740413215161" duration="113000" />
+      <workItem from="1740413375780" duration="110000" />
+      <workItem from="1740419943587" duration="4098000" />
+      <workItem from="1740588584905" duration="6774000" />
+      <workItem from="1741888111191" duration="4408000" />
+      <workItem from="1742055489979" duration="4870000" />
+      <workItem from="1742062680286" duration="3625000" />
+      <workItem from="1742123037730" duration="2199000" />
+      <workItem from="1742136028722" duration="9803000" />
+      <workItem from="1742231051481" duration="3803000" />
+      <workItem from="1742663494692" duration="2920000" />
+      <workItem from="1742710322875" duration="9898000" />
+      <workItem from="1742735124123" duration="5001000" />
+      <workItem from="1742835010094" duration="1516000" />
+      <workItem from="1743317486274" duration="6384000" />
+      <workItem from="1743418422719" duration="1177000" />
+      <workItem from="1743492908236" duration="617000" />
+      <workItem from="1743529678880" duration="4613000" />
+      <workItem from="1743581201144" duration="7514000" />
+      <workItem from="1743837982287" duration="5215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/chapter_6/i_defining_an_enum/src/main.rs</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
