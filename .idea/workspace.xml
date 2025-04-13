@@ -4,51 +4,227 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="CargoProjects">
-    <cargoProject FILE="$PROJECT_DIR$/chapter_5/iii_method_syntax/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_6/i_defining_an_enum/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_5/i_structs/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_6/ii_the_match_control_flow_construct/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_6/iii_concise_control_flow_with_if_let_and_let_else/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_7/iii_paths_for_referring_to_an_item_in_the_module_tree/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_7/iv_bringing_paths_into_scope_with_the_use_keyword/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_7/v_separating_modules_into_different_files/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_8/i_storing_lists_of_values_with_vectors/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_8/iii_hash_maps/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_1/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_2/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_9/i_unrecoverable_errors_with_panic/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_9/ii_recoverable_errors_with_result/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3_enum_ver/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_9/iii_to_panic_or_not_to_panic/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_10/chapter_10/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_10/i_generic_data_types/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_5/iii_method_syntax/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_5/iii_method_syntax">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_6/i_defining_an_enum/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_6/i_defining_an_enum">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_5/i_structs/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_5/i_structs">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_6/ii_the_match_control_flow_construct/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_6/ii_the_match_control_flow_construct">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_6/iii_concise_control_flow_with_if_let_and_let_else/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_6/iii_concise_control_flow_with_if_let_and_let_else">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/iii_paths_for_referring_to_an_item_in_the_module_tree/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_7/iii_paths_for_referring_to_an_item_in_the_module_tree">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/iv_bringing_paths_into_scope_with_the_use_keyword/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_7/iv_bringing_paths_into_scope_with_the_use_keyword">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_7/v_separating_modules_into_different_files/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_7/v_separating_modules_into_different_files">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/i_storing_lists_of_values_with_vectors/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_8/i_storing_lists_of_values_with_vectors">
+        <enabledFeature name="default" />
+      </package>
+      <package file="$USER_HOME$/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/iii_hash_maps/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_8/iii_hash_maps">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_1/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_8/exercises/problem_1">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_2/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_8/exercises/problem_2">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_8/exercises/problem_3">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_9/i_unrecoverable_errors_with_panic/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_9/i_unrecoverable_errors_with_panic">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_9/ii_recoverable_errors_with_result/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_9/ii_recoverable_errors_with_result">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3_enum_ver/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_8/exercises/problem_3">
+        <enabledFeature name="default" />
+      </package>
+      <package file="$PROJECT_DIR$/chapter_8/exercises/problem_3_enum_ver">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_9/iii_to_panic_or_not_to_panic/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_9/iii_to_panic_or_not_to_panic">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/chapter_10/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_10/chapter_10">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/i_generic_data_types/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_10/i_generic_data_types">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator">
+        <enabledFeature name="default" />
+      </package>
+      <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl">
+        <enabledFeature name="default" />
+      </package>
+      <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes">
+        <enabledFeature name="default" />
+      </package>
+      <package file="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/all_in_one/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/adder/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/rectangle/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/assert_eq_ne/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/should_panic/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/run_subset_of_tests/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/ignoring_tests/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/iii_test_organization/testing_private_function/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_11/iii_test_organization/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/chapter_12/minigrep/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/adder/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/adder">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/rectangle/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/rectangle">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/assert_eq_ne/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/assert_eq_ne">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/should_panic/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/should_panic">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/run_subset_of_tests/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/run_subset_of_tests">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/ignoring_tests/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/ignoring_tests">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/iii_test_organization/testing_private_function/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/iii_test_organization/testing_private_function">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_11/iii_test_organization/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_11/iii_test_organization">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_12/minigrep/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_12/minigrep">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/minigrep/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_12/minigrep/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" afterDir="false" />
@@ -163,7 +339,8 @@
       <workItem from="1743960659401" duration="429000" />
       <workItem from="1744129112989" duration="4166000" />
       <workItem from="1744300133441" duration="3137000" />
-      <workItem from="1744439639325" duration="6872000" />
+      <workItem from="1744439639325" duration="7471000" />
+      <workItem from="1744541990046" duration="2005000" />
     </task>
     <servers />
   </component>
