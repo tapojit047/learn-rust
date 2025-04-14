@@ -220,10 +220,27 @@
         <enabledFeature name="default" />
       </package>
     </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/inventory/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/inventory">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/closure_traits/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/closure_traits">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,7 +353,8 @@
       <workItem from="1744129112989" duration="4166000" />
       <workItem from="1744300133441" duration="3137000" />
       <workItem from="1744439639325" duration="7471000" />
-      <workItem from="1744541990046" duration="3007000" />
+      <workItem from="1744541990046" duration="8458000" />
+      <workItem from="1744616702684" duration="3532000" />
     </task>
     <servers />
   </component>
