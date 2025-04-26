@@ -244,8 +244,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/minigrep/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_12/minigrep/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/minigrep/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_12/minigrep/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -362,7 +362,7 @@
       <workItem from="1744616702684" duration="5250000" />
       <workItem from="1745514623769" duration="1274000" />
       <workItem from="1745602771172" duration="1778000" />
-      <workItem from="1745653905856" duration="7979000" />
+      <workItem from="1745653905856" duration="12545000" />
     </task>
     <servers />
   </component>
