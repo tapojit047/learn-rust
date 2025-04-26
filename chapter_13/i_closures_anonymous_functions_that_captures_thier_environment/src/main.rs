@@ -3,6 +3,7 @@ use std::thread;
 fn main() {
     // closure_basics();
     // closure_capturing_immutable_referencing();
+    // closure_capturing_mutable_referencing();
     closure_in_thread();
 }
 

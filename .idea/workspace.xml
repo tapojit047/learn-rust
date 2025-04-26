@@ -235,12 +235,17 @@
         <enabledFeature name="default" />
       </package>
     </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_13/ii_processing_a_series_of_items_with_iterators/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_13/ii_processing_a_series_of_items_with_iterators">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,7 +359,10 @@
       <workItem from="1744300133441" duration="3137000" />
       <workItem from="1744439639325" duration="7471000" />
       <workItem from="1744541990046" duration="8458000" />
-      <workItem from="1744616702684" duration="3532000" />
+      <workItem from="1744616702684" duration="5250000" />
+      <workItem from="1745514623769" duration="1274000" />
+      <workItem from="1745602771172" duration="1778000" />
+      <workItem from="1745653905856" duration="7979000" />
     </task>
     <servers />
   </component>
