@@ -68,9 +68,6 @@
       <package file="$PROJECT_DIR$/chapter_8/i_storing_lists_of_values_with_vectors">
         <enabledFeature name="default" />
       </package>
-      <package file="$USER_HOME$/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26">
-        <enabledFeature name="default" />
-      </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string">
@@ -108,9 +105,6 @@
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3_enum_ver/Cargo.toml">
-      <package file="$PROJECT_DIR$/chapter_8/exercises/problem_3">
-        <enabledFeature name="default" />
-      </package>
       <package file="$PROJECT_DIR$/chapter_8/exercises/problem_3_enum_ver">
         <enabledFeature name="default" />
       </package>
@@ -131,12 +125,6 @@
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/Cargo.toml">
-      <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator">
-        <enabledFeature name="default" />
-      </package>
-      <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl">
-        <enabledFeature name="default" />
-      </package>
       <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior">
         <enabledFeature name="default" />
       </package>
@@ -153,9 +141,6 @@
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes">
-        <enabledFeature name="default" />
-      </package>
-      <package file="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct">
         <enabledFeature name="default" />
       </package>
     </cargoProject>
@@ -240,12 +225,24 @@
         <enabledFeature name="default" />
       </package>
     </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/workout/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/workout">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_13/ii_processing_a_series_of_items_with_iterators/implementing_iterator/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_13/ii_processing_a_series_of_items_with_iterators/implementing_iterator">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_12/minigrep/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_12/minigrep/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_12/minigrep/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_12/minigrep/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -362,7 +359,11 @@
       <workItem from="1744616702684" duration="5250000" />
       <workItem from="1745514623769" duration="1274000" />
       <workItem from="1745602771172" duration="1778000" />
-      <workItem from="1745653905856" duration="12545000" />
+      <workItem from="1745653905856" duration="13195000" />
+      <workItem from="1745943674029" duration="1862000" />
+      <workItem from="1749047499705" duration="707000" />
+      <workItem from="1749054632585" duration="3698000" />
+      <workItem from="1749553605489" duration="6526000" />
     </task>
     <servers />
   </component>
