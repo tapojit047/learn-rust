@@ -1,0 +1,6 @@
+[package]
+name = "ii_publishing_a_create_to_crates_io"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -235,14 +235,41 @@
         <enabledFeature name="default" />
       </package>
     </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_14/ii_publishing_a_create_to_crates_io/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_14/ii_publishing_a_create_to_crates_io">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_14/ii_publishing_a_create_to_crates_io/my_crate/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_14/ii_publishing_a_create_to_crates_io/my_crate">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_one">
+        <enabledFeature name="default" />
+      </package>
+      <package file="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_two">
+        <enabledFeature name="default" />
+      </package>
+      <package file="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/adder">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_one/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_one/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_two/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_two/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/adder/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/adder/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,7 +390,10 @@
       <workItem from="1745943674029" duration="1862000" />
       <workItem from="1749047499705" duration="707000" />
       <workItem from="1749054632585" duration="3698000" />
-      <workItem from="1749553605489" duration="6526000" />
+      <workItem from="1749553605489" duration="7992000" />
+      <workItem from="1749843264119" duration="880000" />
+      <workItem from="1749926725220" duration="2673000" />
+      <workItem from="1749990588510" duration="5350000" />
     </task>
     <servers />
   </component>
