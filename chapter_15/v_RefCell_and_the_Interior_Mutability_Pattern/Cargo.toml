@@ -1,0 +1,6 @@
+[package]
+name = "v_RefCell_and_the_Interior_Mutability_Pattern"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -6,270 +6,293 @@
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/chapter_5/iii_method_syntax/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_5/iii_method_syntax">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_6/i_defining_an_enum/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_6/i_defining_an_enum">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
       <package file="$PROJECT_DIR$">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_5/i_structs/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_5/i_structs">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_6/ii_the_match_control_flow_construct/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_6/ii_the_match_control_flow_construct">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_6/iii_concise_control_flow_with_if_let_and_let_else/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_6/iii_concise_control_flow_with_if_let_and_let_else">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/backyard">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_7/ii_defining_modules_to_control_scope_and_privacy/restaurant">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_7/iii_paths_for_referring_to_an_item_in_the_module_tree/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_7/iii_paths_for_referring_to_an_item_in_the_module_tree">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_7/iv_bringing_paths_into_scope_with_the_use_keyword/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_7/iv_bringing_paths_into_scope_with_the_use_keyword">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_7/v_separating_modules_into_different_files/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_7/v_separating_modules_into_different_files">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/i_storing_lists_of_values_with_vectors/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_8/i_storing_lists_of_values_with_vectors">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_8/ii_storing_utf-8_concoded_text_with_string">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/iii_hash_maps/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_8/iii_hash_maps">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_1/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_8/exercises/problem_1">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_2/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_8/exercises/problem_2">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_8/exercises/problem_3">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_9/i_unrecoverable_errors_with_panic/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_9/i_unrecoverable_errors_with_panic">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_9/ii_recoverable_errors_with_result/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_9/ii_recoverable_errors_with_result">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_8/exercises/problem_3_enum_ver/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_8/exercises/problem_3_enum_ver">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_9/iii_to_panic_or_not_to_panic/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_9/iii_to_panic_or_not_to_panic">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/chapter_10/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_10/chapter_10">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/i_generic_data_types/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_10/i_generic_data_types">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/aggregator">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_10/ii_traits_defining_shared_behavior/conditional_impl">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/lifetime_in_struct">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_10/iii_validatinig_references_with_lifetimes/all_in_one/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/adder/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/adder">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/rectangle/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/rectangle">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/assert_eq_ne/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/assert_eq_ne">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/should_panic/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/i_how_to_write_tests/should_panic">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/run_subset_of_tests/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/run_subset_of_tests">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/ignoring_tests/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/ii_controlling_how_tests_are_run/ignoring_tests">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/iii_test_organization/testing_private_function/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/iii_test_organization/testing_private_function">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_11/iii_test_organization/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_11/iii_test_organization">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_12/minigrep/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_12/minigrep">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/inventory/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/inventory">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/closure_traits/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/closure_traits">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_13/ii_processing_a_series_of_items_with_iterators/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_13/ii_processing_a_series_of_items_with_iterators">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/workout/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_13/i_closures_anonymous_functions_that_captures_thier_environment/workout">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_13/ii_processing_a_series_of_items_with_iterators/implementing_iterator/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_13/ii_processing_a_series_of_items_with_iterators/implementing_iterator">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_14/ii_publishing_a_create_to_crates_io/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_14/ii_publishing_a_create_to_crates_io">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_14/ii_publishing_a_create_to_crates_io/my_crate/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_14/ii_publishing_a_create_to_crates_io/my_crate">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
     <cargoProject FILE="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/Cargo.toml">
       <package file="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_one">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
       <package file="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_two">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
       </package>
       <package file="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/adder">
-        <enabledFeature name="default" />
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_15/i_Using_Box_T_to_Point_to_Data_on_the_Heap/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_15/i_Using_Box_T_to_Point_to_Data_on_the_Heap">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_15/ii_Treating_Smart_Pointers_Like_Regular_References_with_Deref/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_15/ii_Treating_Smart_Pointers_Like_Regular_References_with_Deref">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_15/iii_Running_Code_on_Cleanup_with_the_Drop_Trait/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_15/iii_Running_Code_on_Cleanup_with_the_Drop_Trait">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_15/iv_the_Reference_Counted_Smart_Pointer/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_15/iv_the_Reference_Counted_Smart_Pointer">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_15/v_RefCell_and_the_Interior_Mutability_Pattern/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_15/v_RefCell_and_the_Interior_Mutability_Pattern">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/chapter_15/v_RefCell_and_the_Interior_Mutability_Pattern/messenger/Cargo.toml">
+      <package file="$PROJECT_DIR$/chapter_15/v_RefCell_and_the_Interior_Mutability_Pattern/messenger">
+        <feature name="default" enabled="true" />
       </package>
     </cargoProject>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85bb6e1-3c53-415e-ac82-93077273d320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_one/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_one/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_two/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/add_two/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/adder/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14/iii_cargo_workspaces/add/adder/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/i_structs/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_5/iii_method_syntax/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/i_defining_an_enum/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,9 +325,12 @@
   &quot;keyToString&quot;: {
     &quot;Cargo.Run i_defining_an_enum.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/tapojit047/go/src/github.com/tapojit047/learn-rust&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -315,6 +341,7 @@
     &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
     &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -394,6 +421,18 @@
       <workItem from="1749843264119" duration="880000" />
       <workItem from="1749926725220" duration="2673000" />
       <workItem from="1749990588510" duration="5350000" />
+      <workItem from="1758834971832" duration="6177000" />
+      <workItem from="1758912582307" duration="6217000" />
+      <workItem from="1759118326319" duration="2474000" />
+      <workItem from="1759983177646" duration="1200000" />
+      <workItem from="1760029547914" duration="10777000" />
+      <workItem from="1760123475558" duration="1770000" />
+      <workItem from="1760211566618" duration="1000" />
+      <workItem from="1760226688122" duration="6925000" />
+      <workItem from="1760399892027" duration="3000" />
+      <workItem from="1760839012566" duration="3281000" />
+      <workItem from="1761248550912" duration="11000" />
+      <workItem from="1762120675033" duration="7788000" />
     </task>
     <servers />
   </component>
